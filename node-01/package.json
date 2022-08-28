@@ -1,0 +1,17 @@
+{
+  "name": "node-01",
+  "version": "1.0.0",
+  "description": "My 1st nodejs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mitu2303"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "num-is-even-or-odd": "^1.0.6"
+  }
+}
